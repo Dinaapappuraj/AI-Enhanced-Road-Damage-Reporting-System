@@ -41,48 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCCKkAXU2Q-Mjl6z-ZHaXLKQWp7M12IlUA',
-    appId: '1:560215788845:web:bff7098821e519626897a4',
-    messagingSenderId: '560215788845',
-    projectId: 'road-damage-detection-2dd1f',
-    authDomain: 'road-damage-detection-2dd1f.firebaseapp.com',
-    storageBucket: 'road-damage-detection-2dd1f.appspot.com',
-    measurementId: 'G-26GQ6TWSXZ',
+    aapiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    measurementId: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAaSat13mw70bhO9xW9B5kG9pixW_wHFGM',
-    appId: '1:560215788845:android:d3ef218e9066fcfb6897a4',
-    messagingSenderId: '560215788845',
-    projectId: 'road-damage-detection-2dd1f',
-    storageBucket: 'road-damage-detection-2dd1f.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCuWoKzN-d0enDfWPn6bi-S-q9EfN9JfeY',
-    appId: '1:560215788845:ios:321b2cd259a5a8ec6897a4',
-    messagingSenderId: '560215788845',
-    projectId: 'road-damage-detection-2dd1f',
-    storageBucket: 'road-damage-detection-2dd1f.appspot.com',
-    iosBundleId: 'app.rdd.roadDamageDetection',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCuWoKzN-d0enDfWPn6bi-S-q9EfN9JfeY',
-    appId: '1:560215788845:ios:321b2cd259a5a8ec6897a4',
-    messagingSenderId: '560215788845',
-    projectId: 'road-damage-detection-2dd1f',
-    storageBucket: 'road-damage-detection-2dd1f.appspot.com',
-    iosBundleId: 'app.rdd.roadDamageDetection',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCCKkAXU2Q-Mjl6z-ZHaXLKQWp7M12IlUA',
-    appId: '1:560215788845:web:608b5848ab82de4d6897a4',
-    messagingSenderId: '560215788845',
-    projectId: 'road-damage-detection-2dd1f',
-    authDomain: 'road-damage-detection-2dd1f.firebaseapp.com',
-    storageBucket: 'road-damage-detection-2dd1f.appspot.com',
-    measurementId: 'G-LN63WEYXB3',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    measurementId: '',
   );
 }
