@@ -115,5 +115,3 @@ This project introduces a **smart road damage reporting system** where:
 -  Severity scoring system
 -  Smart city integration
 -  Public deployment with feedback system
-
----
